@@ -1,6 +1,6 @@
 # Xray-ObjSep
 
-![Pipeline Framework](https://github.com/jodumagpi/Xray-ObjSep/blob/main/pipeline_w_background.png)
+![Pipeline Framework](https://github.com/jodumagpi/Xray-ObjSep-v1/blob/main/pipeline_w_background.png)
 
 This repository contains the evaluation pipeline code for our paper entitled "Pixel-level Analysis for Improving Threat Detection in X-ray Security Images". We also provide the pixel-level annotations on a randomly sampled subset from the [SIXray dataset](https://github.com/MeioJane/SIXray.git) as well as the list of mislabeled negative samples in the `data` folder.
 
@@ -19,7 +19,7 @@ To run the code:
 python test_pipeline.py --img_path /path/to/image.jpg
 ```
 
-![Overlayed output mask](https://github.com/jodumagpi/Xray-ObjSep-v0.1/blob/a4f46445593b2d6353cf40d5b0146ecac7584c32/results.png)
+![Overlayed output mask](https://github.com/jodumagpi/Xray-ObjSep-v1/blob/main/results.png)
 
 Classification mAP on SIXray100 subset:
 | Method | mean | Gun | Knife | Wrench | Pliers | Scissors |
