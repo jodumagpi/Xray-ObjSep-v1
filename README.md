@@ -1,4 +1,4 @@
-# Xray-ObjSep
+# Object Separation for X-ray Security Images
 
 ![Pipeline Framework](https://github.com/jodumagpi/Xray-ObjSep-v1/blob/main/pipeline_w_background.png)
 
