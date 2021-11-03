@@ -2,7 +2,7 @@
 
 ![Pipeline Framework](https://github.com/jodumagpi/Xray-ObjSep-v1/blob/main/pipeline_w_background.png)
 
-This repository contains the evaluation pipeline code for our paper entitled "Pixel-level Analysis for Improving Threat Detection in X-ray Security Images". We also provide the pixel-level annotations on a randomly sampled subset from the [SIXray dataset](https://github.com/MeioJane/SIXray.git) as well as the list of mislabeled negative samples in the `data` folder.
+This repository contains the evaluation pipeline code for our paper entitled ["Pixel-level Analysis for Improving Threat Detection in X-ray Security Images"](https://www.mdpi.com/2076-3417/11/21/10261). We also provide the pixel-level annotations on a randomly sampled subset from the [SIXray dataset](https://github.com/MeioJane/SIXray.git) as well as the list of mislabeled negative samples in the `data` folder.
 
 This code was tested on an Ubuntu 18.04.5 machine with Python 3.7.11.  
 Please install `detectron2`, `smp`, and `albumentations`.
